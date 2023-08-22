@@ -226,7 +226,7 @@
    </a>
 </div>
 <div align=center>
-   <a href="https://github.com/SShubhodaya">            
+   <a href="https://github.com/Shubhodaya">            
    <img align="center" alt="Coding Habits" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/codehabits.svg" />
    </a>
 </div>
@@ -251,7 +251,7 @@
 <h2></h2>
 
 <div align=center>
-   <a href="https://github.com/Sabyasachi-Seal">
+   <a href="https://github.com/Shubhodaya">
    <img align="center" alt="Footer" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/footer.svg"/>
    <!-- <img align="center" alt="Footer" width=100% src="img/footer.svg" /> -->
 </div>
