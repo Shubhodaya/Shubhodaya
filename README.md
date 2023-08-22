@@ -128,7 +128,8 @@
 <h2></h2>
 <div align=center>
    <a href="https://github.com/Shubhodaya">
-   <img src="https://github-profile-trophy.vercel.app/?username=Shubhodaya&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="Shubhodaya" width=200% height=100%/>
+   <img src="https://github-profile-trophy.vercel.app/?username=Shubhodaya&no-bg=true&theme=onedark&no-frame=true" alt="Shubhodaya" width=200% height=100%/>
+      
    </a>
 </div>
 <h2></h2>
