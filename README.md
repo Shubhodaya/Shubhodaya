@@ -117,8 +117,7 @@
 </div>
 <h2 align="center"><a href="https://github.com/Shubhodaya"><img alt="Star" width=20% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/star.gif"><img width=80% alt="My Stats" src="./img/mystats.svg"/></a></h2>
 <div align="center">
-   <a href="https://github.com/<!--Made By Sabyasachi-->
-<div align="center" >
+   <div align="center" >
    <a href="https://github.com/Shubhodaya">
    <img width=100% src="https://raw.githubusercontent.com/Shubhodaya/Shubhodaya/ouput/action2.gif" href="https://github.com/Shubhodaya" /></a>
 </div>
