@@ -1,6 +1,6 @@
 <div align="center" >
    <a href="https://github.com/Shubhodaya">
-   <img width=100% src="https://raw.githubusercontent.com/Shubhodaya/Shubhodaya/ouput/action2.gif" href="https://github.com/Shubhodaya" /></a>
+   <img width=100% src="./img/githublogosprofile.png" href="https://github.com/Shubhodaya" /></a>
 </div>
 <div align=center>
    <a href="https://github.com/Shubhodaya">
