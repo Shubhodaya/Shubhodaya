@@ -153,9 +153,9 @@
 <div align=center>
    <a href="https://github.com/Shubhodaya">
 <!--    <img width=49% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/achievements.svg" /> -->
-   <img width=49% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/skyline.svg" />
-   </a>
-</div> -->
+<!--    <img width=49% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/skyline.svg" />
+   </a> -->
+</div> 
 <div align=center>
    <a href="https://github.com/Shubhodaya">
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
