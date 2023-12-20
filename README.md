@@ -97,10 +97,8 @@
 <a href="https://personal-portfolio-kohl-six.vercel.app/">
 <img width=45% height=100% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fpersonal-portfolio-kohl-six.vercel.app/" />
 </a>
-<br>
-<a href="https://github.com/Shubhodaya">
-<img width=45% height=40% src="http://profileviews.azurewebsites.net/"/>
-</a>
+
+
 <br>
 <a href="https://www.linkedin.com/in/shubhodaya-sarkar-a582581b8/">
 <img width=45% height=100% src="https://img.shields.io/badge/-Connect With Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/shubhodaya-sarkar-a582581b8/)]((https://www.linkedin.com/in/shubhodaya-sarkar-a582581b8/)"/>
