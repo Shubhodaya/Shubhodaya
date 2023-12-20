@@ -9,7 +9,7 @@
 </div>
 <h1 align="center"><a href="https://github.com/Shubhodaya"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> I'm a
    <a href="https://github.com/Shubhodaya">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Computer+Science+Undergrad;Tech+Blogger" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=MERN+Stack+Developer;Competitive+Programmer;AI+%26+ML+Enthusiast;Computer+Science+Undergrad;" />
    </a>
 </h1>
 <div align=center>
@@ -18,11 +18,11 @@
    <h4>
       🌱 I’m mostly interested in:
       <a href="https://github.com/Shubhodaya">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Cloud+Computing;CyberSecurity;Data+Science;AI+ML" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Software+Development;Competitive+Programming;AI+ML" /></a>
       <br>
       👯 I’m looking to collaborate on:
       <a href="https://github.com/Shubhodaya">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Data+Science;AI+Projects;Web+Apps;Cloud+Deployment;Social+Media+Bots" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=AI+Projects;Web+Apps;Cloud+Deployment;Social+Media+Bots" /></a>
       <br>
       💬 Talk to me all about:
       <a href="https://github.com/Shubhodaya">
