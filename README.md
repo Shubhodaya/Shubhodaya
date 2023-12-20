@@ -240,13 +240,13 @@
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
-<div align=center>   
+<!-- <div align=center>   
    <a href="https://personal-portfolio-kohl-six.vercel.app/">
    <img width=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=e91e63&center=true&vCenter=true&width=350%&lines=Check+out+my+website+!" />        
    <img align="center" alt="Website Stats" width=100% height=50% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/website.svg" />
    <img align="center" width=95% alt="Website Thumbnail" width=100% height=50% src="...input..." />
    </a>
-</div>
+</div> -->
 <h2></h2>
 
 <div align=center>
