@@ -143,19 +143,19 @@
    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhodaya&theme=redical&hide_border=true" />
    </a>
 </div>
-<h2></h2>
-<div align=center>
+<!-- <h2></h2> -->
+<!-- <div align=center>
    <a href="https://github.com/Shubhodaya" target="_blank">
    <img align=center width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/3DGraphs/profile-night-rainbow.svg" />
    </a>
-</div>
-<h2></h2>
+</div> -->
+<!-- <h2></h2>
 <div align=center>
    <a href="https://github.com/Shubhodaya">
-   <img width=49% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/achievements.svg" />
+<!--    <img width=49% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/achievements.svg" /> -->
    <img width=49% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/skyline.svg" />
    </a>
-</div>
+</div> -->
 <div align=center>
    <a href="https://github.com/Shubhodaya">
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
@@ -195,11 +195,11 @@
    </a>
 </div>
 <!--https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg-->
-<div align=center>
+<!-- <div align=center>
    <a href="https://github.com/Shubhodaya">
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
-</div>
+</div> -->
 <!-- <div align=center>
    <iframe
        title="Inline Frame Example"
@@ -235,11 +235,11 @@
    <img align="center" alt="Activity" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/activity.svg" />
    </a>
 </div> -->
-<div align=center>
+<!-- <div align=center>
    <a href="https://github.com/Shubhodaya">
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
-</div>
+</div> -->
 <!-- <div align=center>   
    <a href="https://personal-portfolio-kohl-six.vercel.app/">
    <img width=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=e91e63&center=true&vCenter=true&width=350%&lines=Check+out+my+website+!" />        
